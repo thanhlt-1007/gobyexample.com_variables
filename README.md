@@ -1,2 +1,6 @@
-# gobyexample.com_variables
-Go by Example: Variables
+# gobyexample.com: Go by Example: Variables
+
+## Reference:
+
+- https://gobyexample.com/variables
+
